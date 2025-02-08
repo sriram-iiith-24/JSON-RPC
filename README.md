@@ -1,4 +1,4 @@
-# IAS Lab-Assignment-4 [RPC System]
+# JSON-RPC
 
 ## Description
 A custom Remote Procedure Call (RPC) system implementation that allows dynamic function calls between client and server using socket communication. The system generates client and server stubs based on a contract file, enabling remote function execution without using external RPC frameworks.
